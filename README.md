@@ -25,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
 </a>
 <a href="https://bun.sh/" target="_blank" rel="noreferrer">
-<img src="https://user-images.githubusercontent.com/7065401/163066164-419f4284-7a4d-4f93-bc4e-1736b432a5ef.png" alt="bun" width="40" height="40"/>
+<img src="https://cdn.svgl.app/library/bun.svg" alt="bun" width="40" height="40"/>
 </a>
 <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>
